@@ -881,11 +881,11 @@ background-size: 4px 4px;
   }
 }
 
-@media (max-width: 480px) {
+/* @media (max-width: 480px) {
   .swal2-popup {
     padding: 20px !important;
     width: 90vw !important;
-  }
+  } */
 
   .swal2-title {
     font-size: 18px !important;
